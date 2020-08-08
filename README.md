@@ -1,4 +1,4 @@
-# FileHistoryFixer
+# File History Fixer
 Tool for removing duplicate files from a corrupt File History backup.
 
 ## How to Use
