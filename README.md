@@ -1,5 +1,5 @@
 # File History Fixer
-Tool for removing duplicate files from a corrupt File History backup.
+Tool for removing duplicate files from a corrupt Windows File History backup.
 
 ## How to Use
 - Make a copy of your file history backup.
