@@ -9,4 +9,4 @@ Tool for removing duplicate files from a corrupt File History backup.
 - Click the Fix button. This may take several minutes.
 - Check the file output.
 
-To compile you're like the .NET Core 3.1 tools.
+To compile you're need the .NET Core 3.1 SDK.
